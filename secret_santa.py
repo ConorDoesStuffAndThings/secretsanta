@@ -9,11 +9,12 @@ EMAIL_PASSWORD = 'password'
 
 participants = [
     {'name': 'Jason', 'email': 'jason.p.p.hanafin@gmail.com'},
-    {'name': 'Paddy', 'email': 'paddypizza@gmail.com'},
+    {'name': 'Paddy', 'email': 'hayespaddy96@gmail.com'},
     {'name': 'Conor', 'email': 'conorhartigan13@gmail.com'},
     {'name': 'Ryan', 'email': 'ryan@email.com'},
     {'name': 'Pepi', 'email': 'elenahorgan2@gmail.com'},
-    {'name': 'Luna', 'email': 'unlesslana@gmail.com'},
+    {'name': 'Luna', 'email': 'uselesslana@gmail.com'},
+    {'name': 'Ben', 'email': 'benlenihan99@gmail.com'},
 ]
 
 random.shuffle(participants)
